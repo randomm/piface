@@ -8,6 +8,8 @@ This repository contains code relating to piface projects.
 
 [Downloads](http://pi.cs.man.ac.uk/download)
 
+**PiFace uses Python 2 and is incompatable with Python 3.**
+
 Installation and Setup
 ======================
 **Ignore the following steps if you have installed the custom
